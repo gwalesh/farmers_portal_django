@@ -23,7 +23,7 @@ This project uses Artificial Intelligence to revolutionize modern agriculture by
 ## 🏗️ Project Structure
 
 ```bash
-├── backend/
+├── farmers_portal/
 │   ├── models/               # Trained ML models
 │   ├── llama2_integration/  # LLaMA 2 pipeline for recommendations
 │   ├── routes/               # API endpoints
